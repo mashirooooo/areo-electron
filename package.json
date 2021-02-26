@@ -1,0 +1,33 @@
+{
+  "name": "areo-electron",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder build",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "build": {
+    "appId": "com.test.electron"
+  },
+  "devDependencies": {
+    "electron": "^11.3.0",
+    "electron-builder": "^22.9.1"
+  },
+  "dependencies": {
+    "ffi-napi": "^4.0.1",
+    "ref-napi": "^3.0.1",
+    "ref-struct-napi": "^1.1.1"
+  }
+}
