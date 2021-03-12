@@ -626,10 +626,10 @@ fd-slicer@~1.1.0:
   dependencies:
     pend "~1.2.0"
 
-ffi-napi@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.npm.taobao.org/ffi-napi/download/ffi-napi-4.0.1.tgz#550c748cb43c6ff8785e77e4e87d32da10d74ad9"
-  integrity sha1-VQx0jLQ8b/h4Xnfk6H0y2hDXStk=
+ffi-napi@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/ffi-napi/-/ffi-napi-4.0.2.tgz#6b92c0209e5ce2c30a60d3ce27c1fcde301d2526"
+  integrity sha512-oSqmI758uxS/Ai79uiuggEPRtRWgdNzgKYIMvbBcxUh1YRWeRrMW9h31h6kEgUAIIdeodRc1h0KgpjTxBsnK5A==
   dependencies:
     debug "^4.1.1"
     get-uv-event-loop-napi-h "^1.0.5"
