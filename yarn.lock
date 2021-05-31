@@ -1225,14 +1225,14 @@ ref-napi@^2.0.1:
     node-addon-api "^2.0.0"
     node-gyp-build "^4.2.1"
 
-ref-napi@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.npm.taobao.org/ref-napi/download/ref-napi-3.0.1.tgz#442c0b266c14620a3c3b5a1d9c8d8d997f33a86d"
-  integrity sha1-RCwLJmwUYgo8O1odnI2NmX8zqG0=
+ref-napi@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/ref-napi/-/ref-napi-3.0.3.tgz#e259bfc2bbafb3e169e8cd9ba49037dd00396b22"
+  integrity sha512-LiMq/XDGcgodTYOMppikEtJelWsKQERbLQsYm0IOOnzhwE9xYZC7x8txNnFC9wJNOkPferQI4vD4ZkC0mDyrOA==
   dependencies:
     debug "^4.1.1"
     get-symbol-from-current-process-h "^1.0.2"
-    node-addon-api "^2.0.0"
+    node-addon-api "^3.0.0"
     node-gyp-build "^4.2.1"
 
 ref-struct-di@^1.1.0:
